@@ -1,0 +1,22 @@
+Name of input file: test_files/VCF_AllFields.txt
+Name of VEP file: None
+Reference genome: hg19
+Chunksize: 200000 lines per chunk
+
+Penalty parameter: 3.5
+Number of SNPs: 11
+
+Number of SNPs where the ancestral allele...
+does not exist: 3
+is the reference allele: 4
+is the alternative allele: 2
+is neither: 2
+
+Number of populations: 3
+Population names: POP1, POP2, POP3
+Maximum FineMAV score for POP1: 1.069908
+Maximum FineMAV score for POP2: 0.974455
+Maximum FineMAV score for POP3: 1.251841
+
+Time taken: 0.08 seconds
+Done

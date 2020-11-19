@@ -1,0 +1,12 @@
+#Location	Uploaded_variation	AA
+1:100000	rs0	a
+1:100001	rs1	c
+1:100002	rs2	t
+1:100003	rs3	g
+1:100004	rs4	A
+1:100005	rs5	C
+1:100006	rs6	T
+1:100007	rs7	G
+1:100008	rs8	.
+1:100009	rs9	N
+1:100010	rs10	-
