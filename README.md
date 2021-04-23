@@ -28,7 +28,6 @@ To access the file globally, move it to one of the directories in your PATH. To 
 GUI versions are available for Linux and MacOS:
 
 - [Linux](https://drive.google.com/file/d/1xBhQGpUhVd02kyIuevVIuqac4zJ_13Tm/view?usp=sharing)
-- [MacOS](https://drive.google.com/file/d/1hHp1SFps89_pFRPPPGCnQHTXuzsEXu5t/view?usp=sharing)
 
 
 ## Citation
