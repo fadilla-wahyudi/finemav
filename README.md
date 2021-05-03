@@ -7,7 +7,7 @@ The *FineMAV* score of the derived allele for each SNP is calculated by multiply
 - Derived allele frequency 
 - The Combined Annotation-Dependent Depletion PHRED-scaled C-score (CADD_PHRED) -- a measure of functionality
 
-For more information about how this program works, please visit our [wiki](https://github.com/fadilla-wahyudi/finemav/wiki/1.-Home).
+For more information about how this program works, please visit our [wiki](https://github.com/fadilla-wahyudi/finemav/wiki).
 
 ## Installation
 
