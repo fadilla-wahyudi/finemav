@@ -21,9 +21,6 @@ Give the binary file executable permissions.
 cd finemav
 chmod +x finemav
 ```
-To access the file globally, move it to one of the directories in your PATH. To check the PATH variable, type in `echo $PATH`.
-Update this
-
 
 ### GUI version
 GUI versions are available for Linux and MacOS:
