@@ -12,7 +12,7 @@ For more information about this program, including installing and running the so
 ## News
 
 ### GUI version
-We recently released GUI version of FineMAV for Linux. For more information, please visit our [wiki](https://github.com/fadilla-wahyudi/finemav/wiki/5.-GUI-version-(Linux)).
+We recently released GUI version of *FineMAV* for Linux. For more information, please visit our [wiki](https://github.com/fadilla-wahyudi/finemav/wiki/5.-GUI-version-(Linux)).
 
 - [Linux](https://drive.google.com/file/d/1xBhQGpUhVd02kyIuevVIuqac4zJ_13Tm/view?usp=sharing)
 
