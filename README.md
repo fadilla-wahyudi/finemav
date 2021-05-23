@@ -14,7 +14,7 @@ For more information about this program, including installing and running the so
 ### GUI version
 ![#89f015](https://via.placeholder.com/15/89f015/000000?text=+) 4th May 2021 : We recently released the GUI version of *FineMAV* for Linux. For more information on how to install and launch the GUI version of the software, please visit our [wiki](https://github.com/fadilla-wahyudi/finemav/wiki/5.-GUI-version-(Linux)).
 
-- [Linux](https://drive.google.com/file/d/1xBhQGpUhVd02kyIuevVIuqac4zJ_13Tm/view?usp=sharing)
+- [Linux](https://drive.google.com/file/d/1ch8d5rGR9S-_bPrkTNGflKaBGMFaerwk/view?usp=sharing)
 
 
 ## Citation
