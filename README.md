@@ -19,4 +19,5 @@ For more information about this program, including installing and running the so
 
 ## Citation
 If you utilise this program, please cite the following papers together:
+> Wahyudi, F., Aghakhanian, F., Rahman, S. et al. Prioritising positively selected variants in whole-genome sequencing data using *FineMAV*. BMC Bioinformatics **22**, 604 (2021). https://doi.org/10.1186/s12859-021-04506-9
 >Szpak, M., Mezzavilla, M., Ayub, Q. et al. *FineMAV*: prioritizing candidate genetic variants driving local adaptations in human populations. Genome Biol **19**, 5 (2018). https://doi.org/10.1186/s13059-017-1380-2
